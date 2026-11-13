@@ -25,6 +25,7 @@ Coordenador de TI, apaixonado por tecnologia, automação e segurança da inform
   <img align="center" alt="Rafa-Ubiquiti" height="30" width="40" src="https://cdn.simpleicons.org/ubiquiti/0559C9">
   <img align="center" alt="Rafa-TPLink" height="30" width="40" src="https://cdn.simpleicons.org/tplink/4ACBD6">
   <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Rafa-pfSense" height="30" width="40" src="https://cdn.simpleicons.org/pfsense/212361">
 
 ##
 
@@ -32,5 +33,5 @@ Coordenador de TI, apaixonado por tecnologia, automação e segurança da inform
   
  <a href = "mailto:leonidas.jr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/leonidas-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="center" alt="Rafa-pfSense" height="30" width="40" src="https://cdn.simpleicons.org/pfsense/212361">
+  
 </div>
