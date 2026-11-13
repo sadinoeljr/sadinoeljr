@@ -23,6 +23,7 @@ Coordenador de TI, apaixonado por tecnologia, automação e segurança da inform
 <div> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ubiquiti" height="30" width="40" src="https://cdn.simpleicons.org/ubiquiti/0559C9">
+  <img align="center" alt="Rafa-TPLink" height="30" width="40" src="https://cdn.simpleicons.org/tplink/4ACBD6">
 
 ##
 
