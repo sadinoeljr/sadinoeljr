@@ -32,5 +32,5 @@ Coordenador de TI, apaixonado por tecnologia, automação e segurança da inform
   
  <a href = "mailto:leonidas.jr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/leonidas-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <img align="center" alt="Rafa-pfSense" height="30" width="40" src="https://cdn.simpleicons.org/pfsense/212361">
 </div>
