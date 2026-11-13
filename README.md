@@ -25,7 +25,7 @@ Coordenador de TI, apaixonado por tecnologia, automação e segurança da inform
   <img align="center" alt="Rafa-Ubiquiti" height="30" width="40" src="https://cdn.simpleicons.org/ubiquiti/0559C9">
   <img align="center" alt="Rafa-TPLink" height="30" width="40" src="https://cdn.simpleicons.org/tplink/4ACBD6">
   <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img align="center" alt="Rafa-pfSense" height="30" width="30" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/pfsense.svg">
+<img align="center" alt="Rafa-pfSense" height="30" width="30" src="https://drive.google.com/file/d/1_2RelSbpD3BjrF8myQaZJ4SVbIrH7CXy/view?usp=sharing">
 
 ##
 
